@@ -1,6 +1,6 @@
-# My Piano
+# Simple Form Login Page
 
-Little project to study HTML and CSS, and how to work with audios with JacaScript
+
 
 ## Run Locally
 
@@ -8,7 +8,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/GiovaniMurakami/simpleFormLoginPage
-
+``````
 Go to the project directory
 
 ```bash
