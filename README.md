@@ -23,3 +23,5 @@ there's a code on line 30 that can be changed to suit your project
 window.location.href = '#'
 ```
 the '#' could be switched to a link to be redirected
+
+in the same way, in the HTML file there are some links that can be added in the '#' placeholders
